@@ -1,0 +1,238 @@
+[
+    {
+        "recipe_id": 1,
+        "recipe_image": "https://i.ibb.co.com/JytzHWL/grilled-chicken-with-basil.jpg",
+        "recipe_name": "Grilled Chicken with Basil",
+        "short_description": "A delicious grilled chicken recipe with fresh basil and mushrooms.",
+        "ingredients": [
+            "550 g chicken",
+            "120 ml soy sauce",
+            "200 g basil leaf",
+            "400 g mushroom",
+            "2 garlic cloves",
+            "1 tbsp olive oil"
+        ],
+        "preparing_time": "30 min",
+        "calories": "320 calories"
+    },
+    {
+        "recipe_id": 2,
+        "recipe_image": "https://i.ibb.co.com/fH49dGm/Vegetable-Stir-Fry.jpg",
+        "recipe_name": "Vegetable Stir-Fry",
+        "short_description": "A quick and healthy vegetable stir-fry packed with fresh veggies.",
+        "ingredients": [
+            "200 g broccoli",
+            "150 g bell peppers",
+            "100 g carrots",
+            "100 g snap peas",
+            "2 tbsp soy sauce",
+            "1 tbsp sesame oil"
+        ],
+        "preparing_time": "25 min",
+        "calories": "180 calories"
+    },
+    {
+        "recipe_id": 3,
+        "recipe_image": "https://i.ibb.co.com/26jyzqM/carbonara.jpg",
+        "recipe_name": "Spaghetti Carbonara",
+        "short_description": "Classic Italian spaghetti carbonara with bacon and creamy sauce.",
+        "ingredients": [
+            "200 g spaghetti",
+            "100 g bacon",
+            "50 g parmesan cheese",
+            "2 eggs",
+            "1 garlic clove",
+            "1 tbsp olive oil"
+        ],
+        "preparing_time": "20 min",
+        "calories": "400 calories"
+    },
+    {
+        "recipe_id": 4,
+        "recipe_image": "https://i.ibb.co.com/Yy00BVR/avocado-toast.jpg",
+        "recipe_name": "Avocado Toast",
+        "short_description": "Simple and healthy avocado toast topped with fresh tomatoes.",
+        "ingredients": [
+            "1 avocado",
+            "2 slices whole grain bread",
+            "50 g cherry tomatoes",
+            "1 tbsp olive oil",
+            "Salt and pepper to taste"
+        ],
+        "preparing_time": "10 min",
+        "calories": "250 calories"
+    },
+    {
+        "recipe_id": 5,
+        "recipe_image": "https://i.ibb.co.com/dgv2nQC/beef-tacos.webp",
+        "recipe_name": "Beef Tacos",
+        "short_description": "Mexican-style beef tacos with seasoned ground beef and fresh toppings.",
+        "ingredients": [
+            "300 g ground beef",
+            "6 taco shells",
+            "100 g lettuce",
+            "50 g cheddar cheese",
+            "100 g salsa",
+            "1 tsp taco seasoning"
+        ],
+        "preparing_time": "35 min",
+        "calories": "450 calories"
+    },
+    {
+        "recipe_id": 6,
+        "recipe_image": "https://i.ibb.co.com/7YHxsbP/chocolate-chip.jpg",
+        "recipe_name": "Chocolate Chip Cookies",
+        "short_description": "Classic chocolate chip cookies with a crispy edge and chewy center.",
+        "ingredients": [
+            "200 g flour",
+            "100 g butter",
+            "150 g sugar",
+            "100 g chocolate chips",
+            "1 egg",
+            "1 tsp vanilla extract"
+        ],
+        "preparing_time": "15 min",
+        "calories": "200 calories per cookie"
+    },
+    {
+        "recipe_id": 7,
+        "recipe_image": "https://i.ibb.co.com/b1R559P/margarita.jpg",
+        "recipe_name": "Margarita Pizza",
+        "short_description": "A classic Italian pizza topped with fresh mozzarella and basil.",
+        "ingredients": [
+            "1 pizza dough",
+            "200 g tomato sauce",
+            "150 g mozzarella",
+            "50 g basil leaves",
+            "1 tbsp olive oil"
+        ],
+        "preparing_time": "20 min",
+        "calories": "350 calories"
+    },
+    {
+        "recipe_id": 8,
+        "recipe_image": "https://i.ibb.co.com/p1j1VWf/Greek-Salad.webp",
+        "recipe_name": "Greek Salad",
+        "short_description": "A fresh and healthy salad with cucumbers, tomatoes, and feta cheese.",
+        "ingredients": [
+            "200 g cucumbers",
+            "150 g cherry tomatoes",
+            "100 g feta cheese",
+            "50 g olives",
+            "2 tbsp olive oil",
+            "1 tbsp vinegar"
+        ],
+        "preparing_time": "15 min",
+        "calories": "220 calories"
+    },
+    {
+        "recipe_id": 9,
+        "recipe_image": "https://i.ibb.co.com/qpHdp9Y/baked-salmon.jpg",
+        "recipe_name": "Baked Salmon",
+        "short_description": "Tender baked salmon with a lemon and herb marinade.",
+        "ingredients": [
+            "2 salmon fillets",
+            "1 lemon",
+            "2 tbsp olive oil",
+            "1 tsp garlic powder",
+            "1 tsp dried parsley"
+        ],
+        "preparing_time": "25 min",
+        "calories": "310 calories"
+    },
+    {
+        "recipe_id": 10,
+        "recipe_image": "https://i.ibb.co.com/25mCyGL/banana-pancake.jpg",
+        "recipe_name": "Banana Pancakes",
+        "short_description": "Fluffy pancakes made with mashed bananas for a sweet breakfast treat.",
+        "ingredients": [
+            "2 bananas",
+            "200 g flour",
+            "100 ml milk",
+            "1 egg",
+            "1 tsp baking powder",
+            "1 tbsp butter"
+        ],
+        "preparing_time": "20 min",
+        "calories": "290 calories"
+    },
+    {
+        "recipe_id": 11,
+        "recipe_image": "https://i.ibb.co.com/xz2FxjG/tomato-soup.jpg",
+        "recipe_name": "Tomato Soup",
+        "short_description": "Creamy tomato soup made with fresh tomatoes and herbs.",
+        "ingredients": [
+            "500 g tomatoes",
+            "1 onion",
+            "2 garlic cloves",
+            "500 ml vegetable broth",
+            "100 ml cream",
+            "1 tbsp olive oil"
+        ],
+        "preparing_time": "30 min",
+        "calories": "180 calories"
+    },
+    {
+        "recipe_id": 12,
+        "recipe_image": "https://i.ibb.co.com/nrLSKx8/chicken-curry.jpg",
+        "recipe_name": "Chicken Curry",
+        "short_description": "A rich and flavorful chicken curry with aromatic spices.",
+        "ingredients": [
+            "500 g chicken",
+            "1 onion",
+            "2 garlic cloves",
+            "200 ml coconut milk",
+            "1 tbsp curry powder",
+            "1 tbsp olive oil"
+        ],
+        "preparing_time": "40 min",
+        "calories": "450 calories"
+    },
+    {
+        "recipe_id": 13,
+        "recipe_image": "https://i.ibb.co.com/gVnkzYw/pasta-primavera.jpg",
+        "recipe_name": "Pasta Primavera",
+        "short_description": "A light pasta dish with fresh vegetables and a garlic sauce.",
+        "ingredients": [
+            "200 g pasta",
+            "100 g bell peppers",
+            "100 g zucchini",
+            "50 g cherry tomatoes",
+            "1 garlic clove",
+            "1 tbsp olive oil"
+        ],
+        "preparing_time": "25 min",
+        "calories": "350 calories"
+    },
+    {
+        "recipe_id": 14,
+        "recipe_image": "https://i.ibb.co.com/crDzCfQ/french-toast.jpg",
+        "recipe_name": "French Toast",
+        "short_description": "Golden French toast with a hint of cinnamon and topped with syrup.",
+        "ingredients": [
+            "2 slices bread",
+            "1 egg",
+            "100 ml milk",
+            "1 tsp cinnamon",
+            "1 tbsp butter",
+            "Maple syrup to taste"
+        ],
+        "preparing_time": "15 min",
+        "calories": "300 calories"
+    },
+    {
+        "recipe_id": 15,
+        "recipe_image": "https://i.ibb.co.com/ySfpS89/mango-smoothie.jpg",
+        "recipe_name": "Mango Smoothie",
+        "short_description": "A refreshing smoothie made with ripe mangoes and yogurt.",
+        "ingredients": [
+            "1 ripe mango",
+            "200 ml yogurt",
+            "100 ml milk",
+            "1 tbsp honey",
+            "Ice cubes"
+        ],
+        "preparing_time": "5 min",
+        "calories": "150 calories"
+    }
+]
