@@ -1,7 +1,7 @@
 const Navbar = () => {
     return (
         <div>
-            <div className="px-8 mt-4 navbar bg-base-100">
+            <div className="mt-4 navbar bg-base-100">
                 <div className="navbar-start">
                     <a className="text-2xl font-bold font-lexend text-[#150B2B]">
                         Recipe Calories
