@@ -1,5 +1,6 @@
 import Header from "./components/Header";
 import Navbar from "./components/Navbar";
+import OurRecipes from "./components/OurRecipes";
 
 const App = () => {
     return (
@@ -8,6 +9,8 @@ const App = () => {
             <Navbar />
             {/* Header section */}
             <Header />
+
+            <OurRecipes />
         </div>
     );
 };
