@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
+import PropTypes from "prop-types";
 
-const Recipes = () => {
+const Recipes = ({ addRecipeToQueue }) => {
     const [recipes, setRecipes] = useState([]);
 
     useEffect(() => {
@@ -14,7 +15,7 @@ const Recipes = () => {
                 {recipes.map((recipe) => (
                     <div
                         key={recipe.recipe_id}
-                        className="shadow-xl card bg-base-100"
+                        className="border-2 card bg-base-100"
                     >
                         <figure className="px-8 pt-6">
                             <img
@@ -43,8 +44,21 @@ const Recipes = () => {
                                     </li>
                                 ))}
                             </ul>
-                            <div className="justify-end card-actions">
-                                <button className="rounded-full btn font-lexend btn-primary">
+                            <div className="flex gap-4">
+                                <div className="flex items-center gap-2">
+                                    <i className="fa-regular fa-clock"></i>
+                                    <p>{recipe.preparing_time} minute.</p>
+                                </div>
+                                <div className="flex items-center gap-2">
+                                    <i className="fa-solid fa-fire-flame-curved"></i>
+                                    <p>{recipe.calories} calories.</p>
+                                </div>
+                            </div>
+                            <div className="pt-4 card-actions">
+                                <button
+                                    onClick={() => addRecipeToQueue(recipe)}
+                                    className="px-4 py-2 bg-[#0BE58A] text-[#150B2B] hover:bg-[#0ACB75] transition-all ease-in rounded-full font-lexend"
+                                >
                                     Want to Cook
                                 </button>
                             </div>
@@ -54,6 +68,10 @@ const Recipes = () => {
             </div>
         </div>
     );
+};
+
+Recipes.propTypes = {
+    addRecipeToQueue: PropTypes.func,
 };
 
 export default Recipes;
