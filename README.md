@@ -1,8 +1,24 @@
-# React + Vite
+# Chef's Table
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A react based website on food ordering and cooking.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### This project contains some key features of ReactJS such as:
+
+-   **Components**
+-   **JSX**
+-   **Hooks**
+
+### This project also contains some of the ES6 features also:
+
+-   **Arrow function**
+-   **Map**
+-   **Destructuring**
+-   **Spread operator**
+-   **Promises**
+-   **Modules**
+
+## You can view the live preview of the project by clicking the link below.
+
+[Live preview](https://app-chefs-table.netlify.app/)
